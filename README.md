@@ -31,3 +31,6 @@ Country = "🇮🇳ɪɴᴅɪᴀ"
 <br />
 
 -->
+
+<p align="center"><a href="https://t.me/TheRiZoeL"><img src="https://telegra.ph/file/d665cc635763373cdfa0a.jpg" width="400"></p>
+
