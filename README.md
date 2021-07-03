@@ -1,9 +1,8 @@
-### 🖤 ʜᴇʟʟᴏ There🖤
+### 🖤 ʜᴇʟʟᴏ ᴛʜᴇʀᴇ🖤
 
-### About 🙋🏻‍♂️
+### ᴀʙᴏᴜᴛ ᴍᴇ 
 ```python
-Name = "RiZoeL"
-who_i_am = ['Coding':  '❣️']
+Name = "ʀɪᴢᴏᴇʟ"
 Age = "17"
 Country = "🇮🇳ɪɴᴅɪᴀ"
 ```
@@ -12,11 +11,10 @@ Country = "🇮🇳ɪɴᴅɪᴀ"
 [![mailid badge](https://img.shields.io/badge/MrRizoel-30302f?style=for-the-badge&logo=gmail)](mailto:contact@cyberboyayush.in)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=TheRiZoeL&label=Profile%20Views&color=orange&style=flat-square" alt="CyberBoyAyush" /> </p>
 
-- 😄I'm Still Learning Git & GitHub
-- 🥰Python Lover
-- ⚜️Most Of My Repositories Are For Telegram
+- ❥︎ ɴᴇᴡ sʏɪʟʟ ʟᴇᴀʀɴɪɴɢ
+- ❥︎ ᴍᴏsᴛ ᴏғ ᴍʏ ʀᴇᴘᴏsɪᴛᴏʀɪᴇs ᴀʀᴇ ғᴏʀ ᴛᴇʟᴇɢʀᴀᴍ
 
-<h4 align="center"><b>My GitHub Stats💛</b></h4>
+<h4 align="center"><b>♡︎ᴍʏ ɢɪᴛʜᴜʙ sᴛᴀᴛs♡︎</b></h4>
 
 ![MrRizoel Git Stats](https://github-readme-stats.vercel.app/api?username=TheRiZoeL&include_all_commits=true&count_private=true&theme=highcontrast)
 
