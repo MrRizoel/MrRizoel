@@ -6,6 +6,8 @@ Name = "ʀɪᴢᴏᴇʟ"
 Age = "17"
 Country = "🇮🇳ɪɴᴅɪᴀ"
 ```
+<p align="center"><a href="https://t.me/TheRiZoeL"><img src="https://telegra.ph/file/d665cc635763373cdfa0a.jpg" width="400"></p>
+
 #### 
 [![telegram badge](https://img.shields.io/badge/@TheRiZoeL-30302f?style=for-the-badge&logo=telegram)](https://t.me/TheRiZoeL)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=TheRiZoeL&label=Profile%20Views&color=red&style=flat-square" alt="TheRiZoeL" /> </p>
@@ -32,5 +34,4 @@ Country = "🇮🇳ɪɴᴅɪᴀ"
 
 -->
 
-<p align="center"><a href="https://t.me/TheRiZoeL"><img src="https://telegra.ph/file/d665cc635763373cdfa0a.jpg" width="400"></p>
 
