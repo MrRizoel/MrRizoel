@@ -7,7 +7,7 @@ Age = "17"
 Country = "🇮🇳ɪɴᴅɪᴀ"
 ```
 #### 
-[![telegram badge](https://img.shields.io/badge/@ᴛʜᴇʀɪᴢᴏᴇʟ-30302f?style=for-the-badge&logo=telegram)](https://t.me/TheRiZoeL)
+[![telegram badge](https://img.shields.io/badge/@TheRiZoeL-30302f?style=for-the-badge&logo=telegram)](https://t.me/TheRiZoeL)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=TheRiZoeL&label=Profile%20Views&color=red&style=flat-square" alt="TheRiZoeL" /> </p>
 
 - ❥︎ ɴᴇᴡ sʏɪʟʟ ʟᴇᴀʀɴɪɴɢ
