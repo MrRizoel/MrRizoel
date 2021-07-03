@@ -7,9 +7,8 @@ Age = "17"
 Country = "🇮🇳ɪɴᴅɪᴀ"
 ```
 #### 
-[![telegram badge](https://img.shields.io/badge/@MrRizoel-30302f?style=for-the-badge&logo=telegram)](https://t.me/legendx22)
-[![mailid badge](https://img.shields.io/badge/MrRizoel-30302f?style=for-the-badge&logo=gmail)](mailto:contact@cyberboyayush.in)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=TheRiZoeL&label=Profile%20Views&color=orange&style=flat-square" alt="CyberBoyAyush" /> </p>
+[![telegram badge](https://img.shields.io/badge/@ᴛʜᴇʀɪᴢᴏᴇʟ-30302f?style=for-the-badge&logo=telegram)](https://t.me/TheRiZoeL)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=TheRiZoeL&label=Profile%20Views&color=red&style=flat-square" alt="TheRiZoeL" /> </p>
 
 - ❥︎ ɴᴇᴡ sʏɪʟʟ ʟᴇᴀʀɴɪɴɢ
 - ❥︎ ᴍᴏsᴛ ᴏғ ᴍʏ ʀᴇᴘᴏsɪᴛᴏʀɪᴇs ᴀʀᴇ ғᴏʀ ᴛᴇʟᴇɢʀᴀᴍ
