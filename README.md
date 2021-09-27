@@ -17,9 +17,9 @@ Country = "🇮🇳ɪɴᴅɪᴀ"
 
 <h4 align="center"><b>♡︎ᴍʏ ɢɪᴛʜᴜʙ sᴛᴀᴛs♡︎</b></h4>
 
-![MrRizoel Git Stats](https://github-readme-stats.vercel.app/api?username=TheRiZoeL&include_all_commits=true&count_private=true&theme=highcontrast)
+![MrRizoel Git Stats](https://github-readme-stats.vercel.app/api?username=MrRizoel&include_all_commits=true&count_private=true&theme=highcontrast)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=legendxop&layout=compact&theme=radical)](https://github.com/legendxop)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrRizoel&layout=compact&theme=radical)](https://github.com/MrRizoel)
 
 ### Languages and Tools I Love❤️
 [<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/600px-Python-logo-notext.svg.png" />](https://python.org/)
