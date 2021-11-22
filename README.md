@@ -14,10 +14,7 @@ Country = "🇮🇳ɪɴᴅɪᴀ"
 - ❥︎ ɴᴇᴡ sᴛɪʟʟ ʟᴇᴀʀɴɪɴɢ
 - ❥︎ ᴍᴏsᴛ ᴏғ ᴍʏ ʀᴇᴘᴏsɪᴛᴏʀɪᴇs ᴀʀᴇ ғᴏʀ ᴛᴇʟᴇɢʀᴀᴍ
 
-<h4 align="center"><b>♡︎ᴍʏ ɢɪᴛʜᴜʙ sᴛᴀᴛs♡︎</b></h4>
-
-
-- [![My github stats](https://github-readme-stats.vercel.app/api?username=MrRizoel&show_icons=true&theme=radical&custom_title=ᴛʜᴇ ʀɪᴢᴏᴇʟ's+Github+Stats&include_all_commits=true&count_private=true)](https://github.com/MrRizoel)
+[![My github stats](https://github-readme-stats.vercel.app/api?username=MrRizoel&show_icons=true&theme=radical&custom_title=ᴛʜᴇ ʀɪᴢᴏᴇʟ's+Github+Stats&include_all_commits=true&count_private=true)](https://github.com/MrRizoel)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrRizoel&layout=compact&theme=radical)](https://github.com/MrRizoel)
 
