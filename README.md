@@ -9,7 +9,7 @@ Country = "🇮🇳ɪɴᴅɪᴀ"
 
 ###
 [![telegram badge](https://img.shields.io/badge/@TheRiZoeL-30302f?style=for-the-badge&logo=telegram)](https://t.me/TheRiZoeL)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=TheRiZoeL&label=Profile%20Views&color=red&style=flat-square" alt="TheRiZoeL" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MrRiZoeL&label=Profile%20Views&color=red&style=flat-square" alt="MrRiZoeL" /> </p>
 
 - ❥︎ ɴᴇᴡ sᴛɪʟʟ ʟᴇᴀʀɴɪɴɢ
 - ❥︎ ᴍᴏsᴛ ᴏғ ᴍʏ ʀᴇᴘᴏsɪᴛᴏʀɪᴇs ᴀʀᴇ ғᴏʀ ᴛᴇʟᴇɢʀᴀᴍ
