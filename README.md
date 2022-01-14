@@ -20,15 +20,12 @@ Country = "🇮🇳ɪɴᴅɪᴀ"
 
 [![My github stats](https://github-readme-stats.vercel.app/api?username=MrRizoel&show_icons=true&theme=radical&custom_title=RiZoeL's+Github+Stats&include_all_commits=true&count_private=true)](https://github.com/MrRizoel)
 
-[![Github Trophies](https://github-profile-trophy.vercel.app/?username=MrRizoel&theme=darkhub&margin-w=10&margin-h=10&row=2&column=3&count_private=true)]
-
 <!--
 [![My wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MrRizoel)](https://github.com/MrRizoel)
 -->
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MrRizoel&theme=black-ice)](https://git.io/streak-stats)
 
-[![Github Graphs](https://activity-graph.herokuapp.com/graph?username=MrRizoel&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true)](https://guthub.com/MrRizoel)
 
 [![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrRizoel&layout=compact&theme=cobalt)](https://github.com/MrRizoel)
 
