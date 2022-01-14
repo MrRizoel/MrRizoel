@@ -16,7 +16,7 @@ Country = "🇮🇳ɪɴᴅɪᴀ"
 
 <h4 align="center"><b>My GitHub Stats💛</b></h4>
 
-[![My github stats](https://github-readme-stats.vercel.app/api?username=MrRizoel&show_icons=true&theme=radical&custom_title=RiZoeL's+Github+Stats&include_all_commits=true&count_private=true)](https://github.com/MrRizoel)
+[![My github stats](https://github-readme-stats.vercel.app/api?username=TheRizoel&show_icons=true&theme=radical&custom_title=RiZoeL's+Github+Stats&include_all_commits=true&count_private=true)](https://github.com/TheRizoel)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheRizoel&layout=compact&theme=radical)](https://github.com/TheRiZoeL)
 
