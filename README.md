@@ -24,9 +24,6 @@ Country = "🇮🇳ɪɴᴅɪᴀ"
 [![My wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MrRizoel)](https://github.com/MrRizoel)
 -->
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MrRizoel&theme=black-ice)](https://git.io/streak-stats)
-
-
 [![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrRizoel&layout=compact&theme=cobalt)](https://github.com/MrRizoel)
 
 
