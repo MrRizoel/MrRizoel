@@ -1,12 +1,12 @@
 
-<h1 align="center">🖤 ʜᴇʟʟᴏ ᴛʜᴇʀᴇ</h1>
+<h1 align="center">Hello -!</h1>
 
-# ᴀʙᴏᴜᴛ ᴍᴇ 
+# About me 
 
 ```python
-Name = "ʀɪᴢᴏᴇʟ"
-Age = "17"
-Country = "🇮🇳ɪɴᴅɪᴀ"
+Name = "RiZoeL"
+Age = "18"
+Country = "India"
 ```
 
 [![telegram badge](https://img.shields.io/badge/@TheRiZoeL-30302f?style=for-the-badge&logo=telegram)](https://t.me/TheRiZoeL)
