@@ -10,21 +10,20 @@
 - <h4 align="center">Trophies 🏆</h4>
 
 <p align="center">
-  <img alt="Trophies" style="padding-bottom:18px;" src="https://github-profile-trophy.vercel.app/?username=MrRizoel&theme=darkhub">
-</p>
-  
+  <img alt="Trophies" style="padding-bottom:18px;" src="https://github-profile-trophy.vercel.app/?username=MrRizoel&theme=github_dark">
+</p>  
 
 - <h4 align="center">Top Langs 📃</h4>
 
-    <img alt="streak" style="padding-bottom:60px;width: 100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrRizoel&theme=radical&layout=compact">
+    <img alt="streak" style="padding-bottom:60px;width: 100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrRizoel&theme=github_dark&layout=compact">
 
 - <h4 align="center">Stats 📊</h4> 
 
-    <img alt="Stats" style="padding-bottom:60px;width: 100%" src="https://github-readme-stats.vercel.app/api?username=MrRizoel&show_icons=true&theme=radical&custom_title=RiZoeL's+Github+Stats&include_all_commits=true&count_private=true">
+    <img alt="Stats" style="padding-bottom:60px;width: 100%" src="https://github-readme-stats.vercel.app/api?username=MrRizoel&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true">
    
 - <h4 align="center">Streak 🔥</h4> 
 
-    <img alt="Streak" style="padding-bottom:100px;" src="https://github-readme-streak-stats.herokuapp.com/?user=MrRizoel&theme=highcontrast">
+    <img alt="Streak" style="padding-bottom:100px;" src="https://github-readme-streak-stats.herokuapp.com/?user=MrRizoel&theme=github_dark">
 
 
 <!--
