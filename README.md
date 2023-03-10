@@ -1,33 +1,41 @@
 
 <h1 align="center">Hello -!</h1>
 
-# About me 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Russo+One&size=30&duration=4000&pause=1000&color=F7F7F7&width=435&lines=Hey%2C+my+self+RiZoeL+;From+Rajasthan%2C+India+%F0%9F%9A%A9;Python+Dev!;Telegram%3A+%40TheRiZoeL" alt="https://t.me/TheRiZoeL" /></a>
 
-```python
-Name = "RiZoeL"
-Age = "18"
-Country = "India"
-```
+` programmer | Developer `
 
-[![telegram badge](https://img.shields.io/badge/@TheRiZoeL-30302f?style=for-the-badge&logo=telegram)](https://t.me/TheRiZoeL)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MrRiZoeL&label=Profile%20Views&red=red&style=flat-square" alt="TheRiZoeL" /> </p>
-
-- ❥︎ ɴᴇᴡ sᴛɪʟʟ ʟᴇᴀʀɴɪɴɢ
-- ❥︎ ᴍᴏsᴛ ᴏғ ᴍʏ ʀᴇᴘᴏsɪᴛᴏʀɪᴇs ᴀʀᴇ ғᴏʀ ᴛᴇʟᴇɢʀᴀᴍ
-
-<h4 align="center"><b>My GitHub Stats 🔥</b></h4>
+----
 
 
-[![My github stats](https://github-readme-stats.vercel.app/api?username=MrRizoel&show_icons=true&theme=radical&custom_title=RiZoeL's+Github+Stats&include_all_commits=true&count_private=true)](https://github.com/MrRizoel)
+<h2 align="center">Statistics;</h2>
+
+- <h4 align="center">Trophies 🏆</h4>
+
+<p align="center">
+  <img alt="Trophies" style="padding-bottom:18px;" src="https://github-profile-trophy.vercel.app/?username=MrRizoel&theme=darkhub">
+</p>
+  
+
+- <h4 align="center">Top Langs 📃</h4>
+
+    <img alt="streak" style="padding-bottom:40px;width: 70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrRizoel&theme=radical&layout=compact">
+
+- <h4 align="center">Stats 📊</h4> 
+
+    <img alt="Stats" style="padding-bottom:40px;width: 80%" src="https://github-readme-stats.vercel.app/api?username=MrRizoel&show_icons=true&theme=highcontrast&count_private=true">
+    
+
+    
+- <h4 align="center">Streak 🔥</h4> 
+
+    <img alt="Streak" style="padding-bottom:100px;" src="https://github-readme-streak-stats.herokuapp.com/?user=MrRizoel&theme=highcontrast">
+
 
 <!--
 [![My wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MrRizoel)](https://github.com/MrRizoel)
 -->
 
-[![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrRizoel&layout=compact&theme=cobalt)](https://github.com/MrRizoel)
-
-
 <!--
-**MrRizoel/MrRizoel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+**MrRizoel/MrRizoel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
 -->
