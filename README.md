@@ -2,8 +2,9 @@
 
 ` programmer | Developer `
 
-----
+• <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23F4A500&title_bg=%23000000&icon=wolfram.svg&icon_color=%23E7E7E7&title=RiZoeL+&edge_flat=false"/></a>
 
+----
 
 <h2 align="center">Statistics;</h2>
 
@@ -15,21 +16,13 @@
 
 - <h4 align="center">Top Langs 📃</h4>
 
-    <img alt="streak" style="padding-bottom:60px;width: 100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrRizoel&theme=codeSTACKr&layout=compact">
+    <img alt="streak" style="padding-bottom:50px;width: 100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrRizoel&theme=codeSTACKr&layout=compact">
 
 - <h4 align="center">Stats 📊</h4> 
 
-    <img alt="Stats" style="padding-bottom:60px;width: 100%" src="https://github-readme-stats.vercel.app/api?username=MrRizoel&show_icons=true&theme=codeSTACKr&custom_title=RiZoeL's+Github+Stats&include_all_commits=true&count_private=true">
+    <img alt="Stats" style="padding-bottom:50px;width: 100%" src="https://github-readme-stats.vercel.app/api?username=MrRizoel&show_icons=true&theme=codeSTACKr&custom_title=RiZoeL's+Github+Stats&include_all_commits=true&count_private=true">
    
 - <h4 align="center">Streak 🔥</h4> 
 
-    <img alt="Streak" style="padding-bottom:100px;" src="https://github-readme-streak-stats.herokuapp.com/?user=MrRizoel&theme=codeSTACKr">
+    <img alt="Streak" style="padding-bottom:80px;" src="https://github-readme-streak-stats.herokuapp.com/?user=MrRizoel&theme=codeSTACKr">
 
-
-<!--
-[![My wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MrRizoel)](https://github.com/MrRizoel)
--->
-
-<!--
-**MrRizoel/MrRizoel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
--->
