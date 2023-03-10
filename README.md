@@ -2,7 +2,7 @@
 
 ` programmer | Developer `
 
-• <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23F4A500&title_bg=%23000000&icon=wolfram.svg&icon_color=%23E7E7E7&title=RiZoeL+&edge_flat=false"/></a>
+• <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMrRizoel&count_bg=%23FFA330&title_bg=%23000000&icon=codeigniter.svg&icon_color=%23AA0000&title=RiZoeL&edge_flat=false"/></a>
 
 ----
 
