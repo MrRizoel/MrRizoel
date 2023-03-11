@@ -2,9 +2,10 @@
 
 ` programmer | Developer `
 
-• <a href="https://github.com/MrRizoel"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMrRizoel&count_bg=%23FFA330&title_bg=%23000000&icon=codeigniter.svg&icon_color=%23AA0000&title=RiZoeL&edge_flat=false"/></a>
+<a href="https://github.com/MrRizoel"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMrRizoel&count_bg=%23FFA330&title_bg=%23000000&icon=codeigniter.svg&icon_color=%23AA0000&title=RiZoeL&edge_flat=false"/></a>
 
-• <a href="https://t.me/TheRiZoeL"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+<a href="https://t.me/TheRiZoeL"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+
 ----
 
 <h2 align="center">Statistics;</h2>
