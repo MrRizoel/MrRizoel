@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Russo+One&size=30&duration=4000&pause=1000&color=F7F7F7&width=435&lines=Hey%2C+my+self+RiZoeL+;From+Rajasthan%2C+India+%F0%9F%9A%A9;Python+Dev!;Telegram%3A+%40TheRiZoeL" alt="https://t.me/TheRiZoeL" /></a>
+<a href="https://github.com/MrRizoel"><img src="https://readme-typing-svg.herokuapp.com?font=Russo+One&size=30&duration=4000&pause=1000&color=F7F7F7&width=435&lines=Hey%2C+my+self+RiZoeL+;From+Rajasthan%2C+India+%F0%9F%9A%A9;Python+Dev!;Telegram%3A+%40TheRiZoeL" alt="https://t.me/TheRiZoeL" /></a>
 
 ` programmer | Developer `
 
